@@ -1,0 +1,114 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "Ananya Sharma",
+      "city": "Guwahati",
+      "age": 28,
+      "gender": "female",
+      "height": 1.65,
+      "weight": 90,
+      "bmi": 33.06,
+      "verdict": "Obese"
+    },
+    {
+      "id": "P002",
+      "name": "Ravi Mehta",
+      "city": "Mumbai",
+      "age": 35,
+      "gender": "male",
+      "height": 1.75,
+      "weight": 85,
+      "bmi": 27.76,
+      "verdict": "Overweight"
+    },
+    {
+      "id": "P003",
+      "name": "Priya Singh",
+      "city": "Delhi",
+      "age": 24,
+      "gender": "female",
+      "height": 1.60,
+      "weight": 50,
+      "bmi": 19.53,
+      "verdict": "Normal"
+    },
+    {
+      "id": "P004",
+      "name": "Amit Kumar",
+      "city": "Pune",
+      "age": 40,
+      "gender": "male",
+      "height": 1.70,
+      "weight": 95,
+      "bmi": 32.87,
+      "verdict": "Obese"
+    },
+    {
+      "id": "P005",
+      "name": "Sneha Patil",
+      "city": "Nagpur",
+      "age": 30,
+      "gender": "female",
+      "height": 1.68,
+      "weight": 62,
+      "bmi": 21.97,
+      "verdict": "Normal"
+    },
+    {
+      "id": "P006",
+      "name": "Rahul Verma",
+      "city": "Hyderabad",
+      "age": 27,
+      "gender": "male",
+      "height": 1.80,
+      "weight": 78,
+      "bmi": 24.07,
+      "verdict": "Normal"
+    },
+    {
+      "id": "P007",
+      "name": "Neha Gupta",
+      "city": "Jaipur",
+      "age": 33,
+      "gender": "female",
+      "height": 1.55,
+      "weight": 70,
+      "bmi": 29.14,
+      "verdict": "Overweight"
+    },
+    {
+      "id": "P008",
+      "name": "Karan Shah",
+      "city": "Ahmedabad",
+      "age": 29,
+      "gender": "male",
+      "height": 1.72,
+      "weight": 68,
+      "bmi": 22.99,
+      "verdict": "Normal"
+    },
+    {
+      "id": "P009",
+      "name": "Pooja Nair",
+      "city": "Kochi",
+      "age": 31,
+      "gender": "female",
+      "height": 1.63,
+      "weight": 82,
+      "bmi": 30.86,
+      "verdict": "Obese"
+    },
+    {
+      "id": "P010",
+      "name": "Vikas Yadav",
+      "city": "Lucknow",
+      "age": 38,
+      "gender": "male",
+      "height": 1.78,
+      "weight": 92,
+      "bmi": 29.04,
+      "verdict": "Overweight"
+    }
+  ]
+}
